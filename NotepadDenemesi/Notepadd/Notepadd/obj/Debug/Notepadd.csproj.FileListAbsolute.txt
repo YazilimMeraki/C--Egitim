@@ -1,0 +1,11 @@
+D:\Masaüstü\CSharpProjelerim\notepad\Notepadd\Notepadd\bin\Debug\Notepadd.exe.config
+D:\Masaüstü\CSharpProjelerim\notepad\Notepadd\Notepadd\bin\Debug\Notepadd.exe
+D:\Masaüstü\CSharpProjelerim\notepad\Notepadd\Notepadd\bin\Debug\Notepadd.pdb
+D:\Masaüstü\CSharpProjelerim\notepad\Notepadd\Notepadd\obj\Debug\Notepadd.csproj.AssemblyReference.cache
+D:\Masaüstü\CSharpProjelerim\notepad\Notepadd\Notepadd\obj\Debug\Notepadd.Notepad.resources
+D:\Masaüstü\CSharpProjelerim\notepad\Notepadd\Notepadd\obj\Debug\Notepadd.Properties.Resources.resources
+D:\Masaüstü\CSharpProjelerim\notepad\Notepadd\Notepadd\obj\Debug\Notepadd.csproj.GenerateResource.cache
+D:\Masaüstü\CSharpProjelerim\notepad\Notepadd\Notepadd\obj\Debug\Notepadd.csproj.CoreCompileInputs.cache
+D:\Masaüstü\CSharpProjelerim\notepad\Notepadd\Notepadd\obj\Debug\Notepadd.exe
+D:\Masaüstü\CSharpProjelerim\notepad\Notepadd\Notepadd\obj\Debug\Notepadd.pdb
+D:\Masaüstü\CSharpProjelerim\notepad\Notepadd\Notepadd\obj\Debug\Notepadd.About.resources
