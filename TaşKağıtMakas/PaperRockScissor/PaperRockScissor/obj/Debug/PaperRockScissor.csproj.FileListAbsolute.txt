@@ -1,0 +1,10 @@
+D:\Masaüstü\CSharpProjelerim\TaşKağıtMakas\PaperRockScissor\PaperRockScissor\bin\Debug\PaperRockScissor.exe.config
+D:\Masaüstü\CSharpProjelerim\TaşKağıtMakas\PaperRockScissor\PaperRockScissor\bin\Debug\PaperRockScissor.exe
+D:\Masaüstü\CSharpProjelerim\TaşKağıtMakas\PaperRockScissor\PaperRockScissor\bin\Debug\PaperRockScissor.pdb
+D:\Masaüstü\CSharpProjelerim\TaşKağıtMakas\PaperRockScissor\PaperRockScissor\obj\Debug\PaperRockScissor.csproj.AssemblyReference.cache
+D:\Masaüstü\CSharpProjelerim\TaşKağıtMakas\PaperRockScissor\PaperRockScissor\obj\Debug\PaperRockScissor.Form1.resources
+D:\Masaüstü\CSharpProjelerim\TaşKağıtMakas\PaperRockScissor\PaperRockScissor\obj\Debug\PaperRockScissor.Properties.Resources.resources
+D:\Masaüstü\CSharpProjelerim\TaşKağıtMakas\PaperRockScissor\PaperRockScissor\obj\Debug\PaperRockScissor.csproj.GenerateResource.cache
+D:\Masaüstü\CSharpProjelerim\TaşKağıtMakas\PaperRockScissor\PaperRockScissor\obj\Debug\PaperRockScissor.csproj.CoreCompileInputs.cache
+D:\Masaüstü\CSharpProjelerim\TaşKağıtMakas\PaperRockScissor\PaperRockScissor\obj\Debug\PaperRockScissor.exe
+D:\Masaüstü\CSharpProjelerim\TaşKağıtMakas\PaperRockScissor\PaperRockScissor\obj\Debug\PaperRockScissor.pdb
